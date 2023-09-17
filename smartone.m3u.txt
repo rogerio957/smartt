@@ -1,0 +1,306 @@
+#EXTM3U
+#EXTINF:-1,PT: RTP 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130916
+#EXTINF:-1,PT: RTP 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130917
+#EXTINF:-1,PT: RTP 3
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130918
+#EXTINF:-1,PT: TVI HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130920
+#EXTINF:-1,PT: SIC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130919
+#EXTINF:-1,PT: SIC Noticias
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130922
+#EXTINF:-1,PT: SIC Radical
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130934
+#EXTINF:-1,PT: SIC Mulher
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130935
+#EXTINF:-1,PT: SIC Caras
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130936
+#EXTINF:-1,PT: SIC 1080
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224049
+#EXTINF:-1,PT: SIC International
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224051
+#EXTINF:-1,PT: TPA International
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131114
+#EXTINF:-1,PT: NOS Studios
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223994
+#EXTINF:-1,PT: RTP Madeira
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224047
+#EXTINF:-1,PT: RTP Açores
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131100
+#EXTINF:-1,PT: RTP Memoria
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131101
+#EXTINF:-1,➤ Entertainment 
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225755
+#EXTINF:-1,PT: Fox
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160029
+#EXTINF:-1,PT: Fox Crime
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131046
+#EXTINF:-1,PT: SyFy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131053
+#EXTINF:-1,PT: Fox Comedy
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131047
+#EXTINF:-1,PT: 24 Kitchen
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130946
+#EXTINF:-1,PT: Casa E Cozinha
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130945
+#EXTINF:-1,PT: Food Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160028
+#EXTINF:-1,PT: TLC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160061
+#EXTINF:-1,PT: E! Entertainment 
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224006
+#EXTINF:-1,PT: Fashion TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224008
+#EXTINF:-1,PT: BBC Entertainment 
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223986
+#EXTINF:-1,PT: Fox Life
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131052
+#EXTINF:-1,PT: Dog TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224005
+#EXTINF:-1,PT: Toros TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224058
+#EXTINF:-1,PT: Dizi Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224004
+#EXTINF:-1,➤ News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225773
+#EXTINF:-1,PT: Porto Canal
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224042
+#EXTINF:-1,PT: TVI 24
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130923
+#EXTINF:-1,PT: Euronews
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130928
+#EXTINF:-1,PT: Localvisao
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224024
+#EXTINF:-1,PT: Bloomberg
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223988
+#EXTINF:-1,PT: Kuriakos
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160038
+#EXTINF:-1,PT: AR TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223983
+#EXTINF:-1,PT: 11 TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223980
+#EXTINF:-1,PT: Now
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224036
+#EXTINF:-1,PT: RTP Africa
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224044
+#EXTINF:-1,PT: Fox News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224010
+#EXTINF:-1,PT: CNBC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224000
+#EXTINF:-1,PT: Record News
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224043
+#EXTINF:-1,➤ Kids
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225754
+#EXTINF:-1,PT: SIC Kids
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224052
+#EXTINF:-1,PT: Baby TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159995
+#EXTINF:-1,PT: Cartoon Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131063
+#EXTINF:-1,PT: Nickelodeon
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131060
+#EXTINF:-1,PT: Nick Jr
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160045
+#EXTINF:-1,PT: Panda Biggs
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160005
+#EXTINF:-1,PT: Panda Kids
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224040
+#EXTINF:-1,PT: Kuriakos Kids TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224021
+#EXTINF:-1,PT: Gametoon
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224011
+#EXTINF:-1,PT: Lolly Kids
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224025
+#EXTINF:-1,PT: Jim Jam
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224020
+#EXTINF:-1,➤ Films
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225765
+#EXTINF:-1,PT: TVCine +
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224065
+#EXTINF:-1,PT: TVCine Top
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131037
+#EXTINF:-1,PT: TVCine Edition
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131038
+#EXTINF:-1,PT: TVCine Emotion
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131039
+#EXTINF:-1,PT: TVCine Action
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131040
+#EXTINF:-1,PT: Fox Movies
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131041
+#EXTINF:-1,PT: AMC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131049
+#EXTINF:-1,PT: AXN
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131050
+#EXTINF:-1,PT: AXN White
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131044
+#EXTINF:-1,PT: AXN Movies 
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131045
+#EXTINF:-1,PT: Cinemundo
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131042
+#EXTINF:-1,PT: Hollywood
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224018
+#EXTINF:-1,PT: TVI Ficcao
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160073
+#EXTINF:-1,PT: Globo 
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224013
+#EXTINF:-1,PT: Globo Premium
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224015
+#EXTINF:-1,➤ EDU and DOC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/225757
+#EXTINF:-1,PT: Blaze
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159999
+#EXTINF:-1,PT: Cacavision
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160002
+#EXTINF:-1,PT: Odisseia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160046
+#EXTINF:-1,PT: Caca E Pesca
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160001
+#EXTINF:-1,PT: Discovery Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131080
+#EXTINF:-1,PT: Discovery Investigation
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131077
+#EXTINF:-1,PT: Crime Investigation 
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131094
+#EXTINF:-1,PT: National Geographic
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131078
+#EXTINF:-1,PT: Nat Geo Wild
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131079
+#EXTINF:-1,PT: Cancao Nova
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131090
+#EXTINF:-1,PT: Campo Pequeno TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223990
+#EXTINF:-1,PT: Histðria
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224017
+#EXTINF:-1,PT: Canal Histia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223991
+#EXTINF:-1,PT: Ca Amp Pesca
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223995
+#EXTINF:-1,PT: Caca e Pesca
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223996
+#EXTINF:-1,PT: Canal 180
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/131089
+#EXTINF:-1,PT: Cavision
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223997
+#EXTINF:-1,PT: Outdoor
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224038
+#EXTINF:-1,PT: Travel Channel
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224061
+#EXTINF:-1,PT: TravelXP
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224062
+#EXTINF:-1,PT: TV Record
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159991
+#EXTINF:-1,PT: Canal Q
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160006
+#EXTINF:-1,PT: CBS Reality
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223998
+#EXTINF:-1,PT: TVI Reality
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224066
+#EXTINF:-1,PT: TVI Reality Mosaico
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224071
+#EXTINF:-1,PT: TVI Reality Cam 1
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224067
+#EXTINF:-1,PT: TVI Reality Cam 2
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224068
+#EXTINF:-1,PT: A Bola
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159993
+#EXTINF:-1,PT: Canal Moto GP
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/223993
+#EXTINF:-1,PT: Motorvision
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130975
+#EXTINF:-1,PT: Benfica TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/159998
+#EXTINF:-1,PT: RTP Arena
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224045
+#EXTINF:-1,PT: Combat
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130974
+#EXTINF:-1,PT: Fuel TV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/130976
+#EXTINF:-1,PT: Ginx
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224012
+#EXTINF:-1,PT: BTV HD
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224091
+#EXTINF:-1,PT: PFC
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224041
+#EXTINF:-1,PT: M Chic
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224032
+#EXTINF:-1,PT: Canal 11
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/160003
+#EXTINF:-1,PT: NBA
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224033
+#EXTINF:-1,PT: UFC Fight Pass
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224073
+#EXTINF:-1,PT: Fight Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224009
+#EXTINF:-1,PT: NFL Network
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/224034
+#EXTINF:-1,PT: CMTV
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/238126
+#EXTINF:-1,PT: Cnn Portugal
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242670
+#EXTINF:-1,PT: AMC Break
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242672
+#EXTINF:-1,PT: AMC Crime
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242673
+#EXTINF:-1,PT: Cartoonito
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242674
+#EXTINF:-1,PT: S+
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242675
+#EXTINF:-1,PT: TV Galicia
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242676
+#EXTINF:-1,PT: TV5 Monde
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242677
+#EXTINF:-1,PT: France 24
+http://dominoiptv.com:2082/Najboljaunited/YMjvqd5UZ3SU/242678
+#EXTINF:-1,PT: SPORT TV 1
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/281487
+#EXTINF:-1,||PT|| SPORT TV 1  LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36979
+#EXTINF:-1,||pt|| SPORT TV 2 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36980
+#EXTINF:-1,||pt|| SPORT TV 3 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36981
+#EXTINF:-1,||pt|| SPORT TV 4 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36982
+#EXTINF:-1,||pt|| SPORT TV 5 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36983
+#EXTINF:-1,||PT|| SPORT TV 1 4k
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37016
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PT: Sport TV 1
+http://1tv41.icu:8080/4qUDXt/560526/78513
+#EXTINF:-1,PT: SPORT TV 1
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/281487
+#EXTINF:-1,PT: Sport TV 1
+http://fortv.cc:8080/2145165799/eddelley31@yahoo.com/78513
+
+
+
+
+
+
+
+
+
+
+
